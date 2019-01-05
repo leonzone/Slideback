@@ -1,7 +1,7 @@
 
 ## 效果
 
-![](https://github.com/leonzone/Slideback/blob/dd24bf8bb8949ec21cc0a35e3d847f9b0ba3cb0a/art/art.png)
+![](https://github.com/leonzone/Slideback/blob/dd24bf8bb8949ec21cc0a35e3d847f9b0ba3cb0a/art/art.png =270x480)
 
 
 ## 添加依赖
