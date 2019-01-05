@@ -1,6 +1,8 @@
 ## 添加依赖
 
-
+``` groovy
+ implementation 'com.reiser:slideback:0.0.1'
+```
 
 ## 使用方法
 
