@@ -1,7 +1,7 @@
 
 ## 效果
 
-![侧滑返回](https://github.com/leonzone/Slideback/blob/b516b002ccbd5c674c422e55a389768aaaec6d5a/art/art.png)
+![](https://github.com/leonzone/Slideback/blob/dd24bf8bb8949ec21cc0a35e3d847f9b0ba3cb0a/art/art.png)
 
 
 ## 添加依赖
